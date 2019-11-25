@@ -783,6 +783,14 @@
             }
         },
         {
+            "Key": "c2648317-ef24-4331-82e9-d4b2cdc43fe3",
+            "Value": {
+                "id": "1fcacb4c-41d7-4d2d-bb8e-0bd32dc7efcb",
+                "resourcePath": "objects\\obj_KeybindManager\\obj_KeybindManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c3040a55-be01-4a72-93df-042f04fbb27a",
             "Value": {
                 "id": "d6df59f2-0a12-4f43-8e09-919435f84d8c",
