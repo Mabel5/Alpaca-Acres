@@ -1,0 +1,1 @@
+self.harvestCount = 0

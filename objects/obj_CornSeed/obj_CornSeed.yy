@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_CornSeed",
     "eventList": [
-        
+        {
+            "id": "25f3900d-9609-43d0-bc47-cf9274065c08",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "183732dd-693c-44a8-b75a-32e07cabee16"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

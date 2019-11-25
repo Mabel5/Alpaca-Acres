@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_GreenBeanSeed",
     "eventList": [
-        
+        {
+            "id": "5823facc-c2f0-48bd-8f07-1002ad933556",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f1d4a469-5439-4adc-8158-53b57dd04095"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

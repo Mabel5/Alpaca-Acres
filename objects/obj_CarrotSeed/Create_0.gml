@@ -1,0 +1,1 @@
+harvestObject = obj_CarrotHarvest

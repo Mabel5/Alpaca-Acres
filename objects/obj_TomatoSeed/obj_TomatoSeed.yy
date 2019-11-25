@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_TomatoSeed",
     "eventList": [
-        
+        {
+            "id": "e13ddca8-e8a6-4b9e-b62a-624fbd136cb5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "61098115-4c74-4b37-9869-836995a4d7ff"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

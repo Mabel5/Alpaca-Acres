@@ -22,4 +22,4 @@ if (global.hourtime = 13) {
 	cyclechange = true;
 }
 
-alarm[0] = 2;
+alarm[0] = 1;

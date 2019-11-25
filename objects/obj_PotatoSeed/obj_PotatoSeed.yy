@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_PotatoSeed",
     "eventList": [
-        
+        {
+            "id": "ae310c0f-a7e5-4204-89de-001ec4a0b20b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "db5758f7-bfd3-4726-83c7-a3d66de9b913"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

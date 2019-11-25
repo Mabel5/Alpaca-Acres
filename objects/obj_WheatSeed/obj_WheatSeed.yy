@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_WheatSeed",
     "eventList": [
-        
+        {
+            "id": "fe372f0f-effe-450e-af4f-ed9146d3a3a6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "970b879d-d034-4019-b4a8-a3f7f556646a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

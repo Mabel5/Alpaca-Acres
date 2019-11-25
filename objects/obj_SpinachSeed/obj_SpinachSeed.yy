@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_SpinachSeed",
     "eventList": [
-        
+        {
+            "id": "d6125126-028e-4d88-85a4-97c1511a1263",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "e3c5052f-62f4-41ac-b23b-ed9c60c1db4d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

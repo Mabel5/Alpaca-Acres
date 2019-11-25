@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_ButterNutsSeed",
     "eventList": [
-        
+        {
+            "id": "24c56a23-ffdb-421d-b051-cec117429550",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "24632497-dfc9-41c1-874c-143436bb9554"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -23,6 +32,14 @@
             "objectId": "0f69848d-bab6-482e-885e-2c4d045c7735",
             "propertyId": "e4f41156-6be3-4095-9a88-94371e64279a",
             "value": "False"
+        },
+        {
+            "id": "7dea2313-34af-4ea1-892b-405eb1af639d",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "0f69848d-bab6-482e-885e-2c4d045c7735",
+            "propertyId": "e6aa5954-07c2-4823-b6c9-16b4647abaee",
+            "value": "1"
         }
     ],
     "parentObjectId": "0f69848d-bab6-482e-885e-2c4d045c7735",

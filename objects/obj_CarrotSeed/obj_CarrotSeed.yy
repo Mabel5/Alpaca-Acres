@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_CarrotSeed",
     "eventList": [
-        
+        {
+            "id": "0bf00087-cca3-4f60-acce-21bdcfcc4007",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "2dac5c26-bf51-4cf5-9859-83432ae212cc"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

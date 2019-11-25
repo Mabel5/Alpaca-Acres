@@ -6,10 +6,11 @@
     "children": [
         "13ff557b-d639-4d34-ad8a-1823e585f74f",
         "e2a28f88-dbfb-4b95-97e8-b88fb73dc947",
-        "d7f1dfa6-f9d4-4d17-82ec-8df945fb1092"
+        "fab6dd19-3ccc-42c1-8507-19f001204348",
+        "a04dded6-9fde-4dfb-8c2e-fd7bd7ea7c69"
     ],
     "filterType": "GMSprite",
-    "folderName": "Placeholders",
+    "folderName": "Plants",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

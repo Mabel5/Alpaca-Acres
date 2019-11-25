@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_CabbageSeed",
     "eventList": [
-        
+        {
+            "id": "360fdb07-33ca-4c37-8f09-0539bb4c0a82",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "e621f528-7ebe-446a-8798-4ed2e2f6766e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -23,6 +32,14 @@
             "objectId": "0f69848d-bab6-482e-885e-2c4d045c7735",
             "propertyId": "e4f41156-6be3-4095-9a88-94371e64279a",
             "value": "False"
+        },
+        {
+            "id": "6f3c8a90-352c-4146-8dcd-4e9888c64932",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "0f69848d-bab6-482e-885e-2c4d045c7735",
+            "propertyId": "e6aa5954-07c2-4823-b6c9-16b4647abaee",
+            "value": "1"
         }
     ],
     "parentObjectId": "0f69848d-bab6-482e-885e-2c4d045c7735",

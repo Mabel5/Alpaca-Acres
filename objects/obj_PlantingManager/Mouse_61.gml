@@ -1,8 +1,7 @@
-if (plantArrayIndex == 0) {
-	plantArrayIndex = array_length_1d(plantArray) - 1
+if (plantArrayIndex == (array_length_1d(plantArray) - 1)) {
+	plantArrayIndex = 0
 }
 else {
-	plantArrayIndex--;
+	plantArrayIndex++;
 }
-
-global.selectedPlant = plantArray[plantArrayIndex]
+	global.selectedPlant = plantArray[plantArrayIndex]

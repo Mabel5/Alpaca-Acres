@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_MushroomSeed",
     "eventList": [
-        
+        {
+            "id": "6b64cb37-3dd3-4170-bbf7-9348609cdd76",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "034c67bf-b377-4a69-b2fe-f85465435939"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
