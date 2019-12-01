@@ -71,11 +71,27 @@
             }
         },
         {
+            "Key": "0b9900ca-9b8f-43c6-af1f-9d13a4423031",
+            "Value": {
+                "id": "dffacf01-6f24-42aa-a5ba-74d4c44dc78c",
+                "resourcePath": "sprites\\spr_OnionHarvest\\spr_OnionHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f69848d-bab6-482e-885e-2c4d045c7735",
             "Value": {
                 "id": "9f22f518-2bd9-4ef2-b294-04723b4f56af",
                 "resourcePath": "objects\\obj_SeedBluePrint\\obj_SeedBluePrint.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0f9e5080-c997-4b3a-8c8d-1266e64df407",
+            "Value": {
+                "id": "e90f812c-49bc-4ac4-91aa-dedca645e521",
+                "resourcePath": "sprites\\spr_MouseButtons\\spr_MouseButtons.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -567,14 +583,6 @@
             }
         },
         {
-            "Key": "870ad4e2-1fa5-4c24-aef7-1b303fd374e2",
-            "Value": {
-                "id": "c1987bfc-2f7d-4442-8bfb-6210876ca9d7",
-                "resourcePath": "sprites\\sprite56\\sprite56.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "87f94981-c204-406d-82fd-701343586108",
             "Value": {
                 "id": "35af5c71-c24a-47fa-9667-6cc755dd3512",
@@ -663,6 +671,14 @@
             }
         },
         {
+            "Key": "a30583d8-6d33-47d8-942e-c49803a62bb7",
+            "Value": {
+                "id": "7c76b2a3-ff88-4de3-9145-2fea4b8b68f1",
+                "resourcePath": "objects\\obj_OnionSeed\\obj_OnionSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a390963f-ab85-4058-9cfd-a880eba8d47e",
             "Value": {
                 "id": "90c3d1ee-80ea-4a0e-8973-251022a74c41",
@@ -700,6 +716,14 @@
                 "id": "e3d94f8c-d26a-4493-a9eb-bda8a4eafefa",
                 "resourcePath": "sprites\\Harvest\\Harvest.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "abb6a52f-311a-40b1-9675-a241a7b15a1c",
+            "Value": {
+                "id": "52ef4757-db69-4d2b-9274-c41a22047a57",
+                "resourcePath": "objects\\obj_OnionHarvest\\obj_OnionHarvest.yy",
+                "resourceType": "GMObject"
             }
         },
         {

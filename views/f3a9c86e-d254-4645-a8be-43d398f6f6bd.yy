@@ -19,7 +19,8 @@
         "df08a985-6fac-4e16-85e6-8a8c6f80f825",
         "30234295-1ecf-43cb-8b45-010478019e11",
         "fa8a3537-8e5c-46c1-abee-9e827bc0fa49",
-        "23d044f9-be1a-452d-bdea-f406610d673b"
+        "23d044f9-be1a-452d-bdea-f406610d673b",
+        "abb6a52f-311a-40b1-9675-a241a7b15a1c"
     ],
     "filterType": "GMObject",
     "folderName": "Harvest",

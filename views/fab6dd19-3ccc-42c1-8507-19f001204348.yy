@@ -18,7 +18,8 @@
         "7c398f3c-7184-4612-9742-db49eebf8af0",
         "bf0c092a-3266-4b5f-8f35-54fb1c5df965",
         "1304b796-c095-4866-8ca9-783ccf808cc5",
-        "6c8bcb99-959a-413b-a272-1e7d69e59433"
+        "6c8bcb99-959a-413b-a272-1e7d69e59433",
+        "0b9900ca-9b8f-43c6-af1f-9d13a4423031"
     ],
     "filterType": "GMSprite",
     "folderName": "Harvested Plants",

@@ -19,7 +19,8 @@
         "db5758f7-bfd3-4726-83c7-a3d66de9b913",
         "e3c5052f-62f4-41ac-b23b-ed9c60c1db4d",
         "61098115-4c74-4b37-9869-836995a4d7ff",
-        "970b879d-d034-4019-b4a8-a3f7f556646a"
+        "970b879d-d034-4019-b4a8-a3f7f556646a",
+        "a30583d8-6d33-47d8-942e-c49803a62bb7"
     ],
     "filterType": "GMObject",
     "folderName": "Seeds",
