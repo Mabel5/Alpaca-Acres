@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "08f5a95e-1b35-4605-bc3d-85761fc3d7a6",
+            "Value": {
+                "id": "16be3f74-84cf-4536-a730-c7e4e264da85",
+                "resourcePath": "sprites\\spr_ExitCooking\\spr_ExitCooking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0a43ec27-54c4-4782-80c8-d3bb0ccf0dc6",
             "Value": {
                 "id": "b9fb80fd-0420-4591-85b4-e7aec0ca7969",
@@ -79,11 +87,27 @@
             }
         },
         {
+            "Key": "0b249f1d-ba46-44c5-b294-091ae3977cf7",
+            "Value": {
+                "id": "b5b32623-cbdb-40f7-81f4-fa81a9bf1881",
+                "resourcePath": "views\\0b249f1d-ba46-44c5-b294-091ae3977cf7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0b9900ca-9b8f-43c6-af1f-9d13a4423031",
             "Value": {
                 "id": "dffacf01-6f24-42aa-a5ba-74d4c44dc78c",
                 "resourcePath": "sprites\\spr_OnionHarvest\\spr_OnionHarvest.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0cc8000f-a683-4403-a1d6-4c28d6fdfbf5",
+            "Value": {
+                "id": "82094119-44e9-4dcd-b0e1-816e7d0727d5",
+                "resourcePath": "objects\\obj_CookingDish\\obj_CookingDish.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -287,6 +311,14 @@
             }
         },
         {
+            "Key": "27575d96-8040-40ef-a18f-52b5e682726c",
+            "Value": {
+                "id": "47cf4c81-602e-4760-a74d-21882d07b554",
+                "resourcePath": "objects\\obj_Alpaca\\obj_Alpaca.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "29f1eb9e-475d-42b8-a3ec-76630fd13181",
             "Value": {
                 "id": "70181ecb-52a1-41b3-96d0-c766ed71e4ac",
@@ -299,6 +331,14 @@
             "Value": {
                 "id": "3430c6a9-68ce-4203-9246-b810f54a7ba4",
                 "resourcePath": "sprites\\spr_BellPepperHarvest\\spr_BellPepperHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2c09122e-f602-4004-98ff-c674d2ba16d1",
+            "Value": {
+                "id": "079bdb4e-9202-4391-8f4e-f8aa8bf8c8e5",
+                "resourcePath": "sprites\\spr_AlpacaIdle\\spr_AlpacaIdle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -356,6 +396,14 @@
                 "id": "37327559-17a2-47f1-8ac5-2b711badd8fe",
                 "resourcePath": "objects\\obj_PlantingPlot\\obj_PlantingPlot.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3b6e25ff-1dd6-41a4-814e-97053bfe2b1f",
+            "Value": {
+                "id": "303354a6-4483-4a24-bd8f-1ffc0b6b3ee7",
+                "resourcePath": "sprites\\spr_KitchenFG\\spr_KitchenFG.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -475,6 +523,14 @@
             "Value": {
                 "id": "09456fe6-63f8-41ce-bd01-ad3b2af4d1dd",
                 "resourcePath": "sprites\\spr_Cabbage\\spr_Cabbage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "60117b26-3078-4fe1-a0ed-c381f33f26f2",
+            "Value": {
+                "id": "b2baf566-ec7b-4aa4-9e8e-1fd5be116f7f",
+                "resourcePath": "sprites\\spr_CookingSquare\\spr_CookingSquare.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -647,10 +703,34 @@
             }
         },
         {
+            "Key": "96d7d68c-2fb5-4657-a3c9-99e82c19b110",
+            "Value": {
+                "id": "7fa6b75b-a333-470d-966a-b196e1649869",
+                "resourcePath": "sprites\\spr_blockMovement\\spr_blockMovement.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "970b879d-d034-4019-b4a8-a3f7f556646a",
             "Value": {
                 "id": "1ae665b8-5305-4376-8931-3205f77fd046",
                 "resourcePath": "objects\\obj_WheatSeed\\obj_WheatSeed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "973ad599-d8c1-4113-8402-71e8638f8592",
+            "Value": {
+                "id": "455a31ba-f884-4597-ae8d-6c366cded110",
+                "resourcePath": "sprites\\spr_KitchenBG\\spr_KitchenBG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "997e1b18-4877-4fb5-a0c9-d721d5bae54a",
+            "Value": {
+                "id": "aa6844dd-474e-491c-a379-d55ec5b8a502",
+                "resourcePath": "objects\\obj_ExitCooking\\obj_ExitCooking.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -727,6 +807,14 @@
             }
         },
         {
+            "Key": "a4684837-d1be-44b5-8dc6-721c7f06b411",
+            "Value": {
+                "id": "63624f5e-1064-42c5-80f2-0648b36fef39",
+                "resourcePath": "objects\\obj_SellStand\\obj_SellStand.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a58ecc3d-15a0-4723-a338-6c9d8ab60a54",
             "Value": {
                 "id": "19c5ce40-6242-4fee-af71-9be48877249d",
@@ -759,11 +847,27 @@
             }
         },
         {
+            "Key": "aa3e2ddb-254c-4131-852a-8b197a7a4664",
+            "Value": {
+                "id": "0ef07a60-c4a1-4eb7-8ca8-1163a876b8ea",
+                "resourcePath": "objects\\obj_CookingIngredient\\obj_CookingIngredient.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "abb6a52f-311a-40b1-9675-a241a7b15a1c",
             "Value": {
                 "id": "52ef4757-db69-4d2b-9274-c41a22047a57",
                 "resourcePath": "objects\\obj_OnionHarvest\\obj_OnionHarvest.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "af0ea006-1597-486f-b70d-25f5fee4df26",
+            "Value": {
+                "id": "4eba6675-b46a-48a5-ad7b-297b4558c222",
+                "resourcePath": "sprites\\spr_AlpacaMoving\\spr_AlpacaMoving.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -847,11 +951,27 @@
             }
         },
         {
+            "Key": "bffa8484-94ca-41ad-9fda-0799bc7b902e",
+            "Value": {
+                "id": "24948dc7-8c39-4e0e-9d1c-59477450fecc",
+                "resourcePath": "objects\\obj_blockMovement\\obj_blockMovement.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c06ffb35-a4b0-4554-9d88-ec1e983ab7ef",
             "Value": {
                 "id": "2719bd24-7b7c-4d81-a436-b5cadb54af52",
                 "resourcePath": "views\\c06ffb35-a4b0-4554-9d88-ec1e983ab7ef.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c0b6297a-4d6d-4d81-884f-fab28895de80",
+            "Value": {
+                "id": "c57a2d69-ddb3-4c69-97d9-9d05bb775f16",
+                "resourcePath": "sprites\\sprite68\\sprite68.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -875,6 +995,14 @@
             "Value": {
                 "id": "73f5211c-0348-4595-b740-511c1ebf26ea",
                 "resourcePath": "sprites\\spr_Logo\\spr_Logo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c931f534-ac6b-4436-a32d-47ff5e712fc6",
+            "Value": {
+                "id": "a85983f2-8ecd-4784-9d2c-e6746b72f85a",
+                "resourcePath": "sprites\\sprite69\\sprite69.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1139,6 +1267,14 @@
             "Value": {
                 "id": "ac82acbf-526d-49ef-822e-86af1f1fd110",
                 "resourcePath": "sprites\\spr_MushroomHarvest\\spr_MushroomHarvest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "feeb5ef1-5d80-4216-90fb-8b574a771305",
+            "Value": {
+                "id": "94c9bc16-6b5f-4b73-b7df-6ee9af0231cc",
+                "resourcePath": "sprites\\spr_Pot\\spr_Pot.yy",
                 "resourceType": "GMSprite"
             }
         }

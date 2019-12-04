@@ -23,12 +23,22 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "4a8bd413-08ca-4915-92f6-25efb54449b7"
+        },
+        {
+            "id": "47688af8-25c0-4e40-abbc-1e89fa71eb29",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 7,
+            "m_owner": "4a8bd413-08ca-4915-92f6-25efb54449b7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -42,7 +52,62 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "9d8a5041-b7c4-4680-99bc-137b1666cb1d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "CookingX",
+            "varType": 0
+        },
+        {
+            "id": "519945f8-2441-480f-b30c-4a6faca0d1d0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "CookingY",
+            "varType": 0
+        },
+        {
+            "id": "34c2af66-68f8-47d0-868d-838d5be6d2bc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "FarmX",
+            "varType": 0
+        },
+        {
+            "id": "9b5408be-bdf3-417b-9e47-6fe7626fbaaa",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "FarmY",
+            "varType": 0
+        }
     ],
     "solid": false,
     "spriteId": "c3040a55-be01-4a72-93df-042f04fbb27a",
