@@ -5,4 +5,4 @@ else {
 	plantArrayIndex--;
 }
 
-global.selectedPlant = plantArray[plantArrayIndex]
+global.selectedSeed = plantArray[plantArrayIndex]

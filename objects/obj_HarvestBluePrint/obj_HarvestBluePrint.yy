@@ -33,6 +33,16 @@
             "enumb": 4,
             "eventtype": 7,
             "m_owner": "4a8bd413-08ca-4915-92f6-25efb54449b7"
+        },
+        {
+            "id": "2c17e94d-f25b-4c6b-9f1c-1b62076ab3b8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "4a8bd413-08ca-4915-92f6-25efb54449b7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -107,6 +117,20 @@
             "value": "0",
             "varName": "FarmY",
             "varType": 0
+        },
+        {
+            "id": "36c4ce7c-1ab0-4511-b6c1-5377c3daf9bc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "isSelected",
+            "varType": 3
         }
     ],
     "solid": false,

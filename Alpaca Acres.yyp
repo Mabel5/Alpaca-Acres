@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "54861c73-0f83-4b7f-85f0-a84eadc72eb2",
+            "Value": {
+                "id": "c724cc0f-69bd-4ed5-b488-0b6fc03f2e75",
+                "resourcePath": "objects\\obj_CookingManager\\obj_CookingManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "59171061-1597-4bcb-8f52-484e048fb5bc",
             "Value": {
                 "id": "17d96ff6-d388-4b7e-b163-70fd3b974166",
@@ -970,7 +978,7 @@
             "Key": "c0b6297a-4d6d-4d81-884f-fab28895de80",
             "Value": {
                 "id": "c57a2d69-ddb3-4c69-97d9-9d05bb775f16",
-                "resourcePath": "sprites\\sprite68\\sprite68.yy",
+                "resourcePath": "sprites\\spr_Equals\\spr_Equals.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1002,7 +1010,7 @@
             "Key": "c931f534-ac6b-4436-a32d-47ff5e712fc6",
             "Value": {
                 "id": "a85983f2-8ecd-4784-9d2c-e6746b72f85a",
-                "resourcePath": "sprites\\sprite69\\sprite69.yy",
+                "resourcePath": "sprites\\spr_Plus\\spr_Plus.yy",
                 "resourceType": "GMSprite"
             }
         },

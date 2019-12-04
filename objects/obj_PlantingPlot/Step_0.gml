@@ -1,10 +1,10 @@
 if position_meeting(mouse_x, mouse_y, self) {
 	
-	if (mouse_check_button_pressed(mb_left) && global.selectedPlant.seeds > 0) {
+	if (mouse_check_button_pressed(mb_left) && global.selectedSeed.seeds > 0) {
 		if (growthStage == 0 && sprite_index = spr_Mound) {
-			currentPlant = global.selectedPlant
-			sprite_index = global.selectedPlant.plant
-			global.selectedPlant.seeds--;
+			currentPlant = global.selectedSeed
+			sprite_index = global.selectedSeed.plant
+			global.selectedSeed.seeds--;
 			alarm[0] = currentPlant.growthRate
 			
 			

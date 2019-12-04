@@ -21,4 +21,4 @@ plantArray = [
 
 
 plantArrayIndex = 0;
-global.selectedPlant = plantArray[plantArrayIndex];
+global.selectedSeed = plantArray[plantArrayIndex];
