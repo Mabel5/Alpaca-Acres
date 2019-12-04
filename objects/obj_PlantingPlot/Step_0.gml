@@ -5,7 +5,7 @@ if position_meeting(mouse_x, mouse_y, self) {
 			currentPlant = global.selectedPlant
 			sprite_index = global.selectedPlant.plant
 			global.selectedPlant.seeds--;
-			alarm[0] = growthRate
+			alarm[0] = currentPlant.growthRate
 			
 			
 		}  
