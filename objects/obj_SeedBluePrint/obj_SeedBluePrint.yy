@@ -93,6 +93,20 @@
             "value": "False",
             "varName": "isSelected",
             "varType": 3
+        },
+        {
+            "id": "4ca41563-0fd9-409f-a63f-7f8cf11da97b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "growthRate",
+            "varType": 0
         }
     ],
     "solid": false,
